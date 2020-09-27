@@ -1,0 +1,10 @@
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.Main.csprojAssemblyReference.cache
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.FrmMain.resources
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.Properties.Resources.resources
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.Main.csproj.GenerateResource.cache
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.Main.csproj.CoreCompileInputs.cache
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\bin\Debug\Walle.Tools.MonGhost.exe.config
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\bin\Debug\Walle.Tools.MonGhost.exe
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\bin\Debug\Walle.Tools.MonGhost.pdb
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.exe
+E:\OpenSource\Walle.Tools.MonGhost\Walle.Tools.MonGhost.Main\obj\Debug\Walle.Tools.MonGhost.pdb
